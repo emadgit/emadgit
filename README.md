@@ -6,5 +6,5 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/emaddphotography/?hl=en)
 [![Facebook Badge](https://img.shields.io/badge/WEB-My%20Website-brightgreen)](https://emadgit.github.io)
 
-![Emad's GitHub Card](https://github.com/emadgit/emadgit/blob/main/assets/github-card.png)
+![Emad's GitHub Card](https://github.com/emadgit/emadgit/blob/main/assets/gc.png)
 
